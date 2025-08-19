@@ -193,11 +193,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 📫 Contact
-
-For any inquiries or support, please contact:
-
-- **Email:** <add-email-here>
-- **GitHub:** [@07sumit1002](https://github.com/07sumit1002)
-
----
